@@ -1,5 +1,5 @@
 
-## Related: 
+## Related 🍄
 
 - 😄 欢迎也使用我的其他语言的项目.
 
@@ -9,6 +9,7 @@
 | [better-rs](https://github.com/better-rs/) | Rust 相关 | ⭐⭐⭐⭐⭐ |
 | [better-go](https://github.com/better-go) | Golang 相关 | ⭐⭐⭐⭐⭐ |
 | [better-py](https://github.com/better-py) | Python 相关 | ⭐⭐⭐⭐ |
+| [better-sre](https://github.com/better-sre) | DevOps 相关 | ⭐⭐⭐⭐ |
 
 
 
