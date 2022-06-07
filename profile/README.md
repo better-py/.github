@@ -29,7 +29,7 @@
 
 
 
-<p align="middle">
+<p align="#middle">
     <a href="https://discord.com/invite/MnDA9pfWAW" target="_blank">
       <img src="https://img.shields.io/badge/Discord-GossipCoder-%237289DA.svg?logo=iscord&logoColor=white" alt="Discord">
     </a> 
